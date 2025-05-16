@@ -1,4 +1,4 @@
-### Jāizmanto studiju projekta ZIP ar "2" beigās!
+### Jāizmanto studiju projekta ZIP ar "..2.zip" beigās!
 
 ## Ja kaut kas neiet, var mēģināt:
 1. Apturēt simulāciju.
