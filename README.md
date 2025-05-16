@@ -1,3 +1,5 @@
+## Šobrīd pēc pārbaudem izskatās, ka dalīšanās ar strādājošu projektu nestrādās. Jāizmēģina vēl kādas metodes.
+
 ### Jāizmanto studiju projekta ZIP ar "..2.zip" beigās!
 
 ## Ja kaut kas neiet, var mēģināt:
